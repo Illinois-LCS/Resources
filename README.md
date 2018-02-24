@@ -24,6 +24,8 @@ Resources Academically: Math, Physics, Chem, CS/ECE.
 * Operating System
 * Algorithms
 
-### Elec & Compu Engineering
+### Elec & Computer Engineering
 * Analog
 * Computer System Programming
+
+
