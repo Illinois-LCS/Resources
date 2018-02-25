@@ -27,5 +27,7 @@ Resources Academically: Math, Physics, Chem, CS/ECE.
 ### Elec & Computer Engineering
 * Analog
 * Computer System Programming
+* Digital Signal Processing
+* Intro to Electronic & Computing
 
 
